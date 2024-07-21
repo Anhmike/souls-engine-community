@@ -15,7 +15,7 @@ npx soul-engine dev
 
 ## 🔑 Getting Soul Engine access
 
-> The Soul Engine is currently in private alpha! [Join our mailing list](https://opensouls.beehiiv.com/subscribe) to be the first to hear about the next updates!
+> The Soul Engine is currently in closed Beta! [Join our mailing list](https://opensouls.beehiiv.com/subscribe) to be the first to hear about the next updates!
 
 ## 💫 AI Souls
 
